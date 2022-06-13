@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Federico Anelli</h1>
 <h3 align="center">Computer Systems Engineer from Argentina. Head of Product and Tech @ Radio Disney LATAM.</h3>
 
-- 🌱 I’m currently learning **Frontend development**
-
 - 💬 Ask me about **Project Management, Software Engineering, Entertainment Industry.**
 
 - 📫 How to reach me **federicoanelli@gmail.com**
